@@ -9,3 +9,5 @@ equationsolver - v1.0
            - Newton-Raphson
            - Secant
 - plot: y = f(x)
+
+![Screenshot](/EquationSolver/screenshot.png)
